@@ -146,4 +146,8 @@ print("Answer:", result["result"])
 
 ## 📁 License
 
-MIT
+Copyright (c) 2025 [Rajni Dua]
+
+All rights reserved
+
+This source code is proprietary and confidential. Unauthorised copying, modification, distribution, or any kind of use is strictly prohibited without explicit written permission from the author.
